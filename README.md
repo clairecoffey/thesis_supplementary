@@ -1,1 +1,1 @@
-This repo contains the supplementary tables for the PhD thesis submitted to the University of Cambridge titled "Evaluating and enhancing cardiovascular disease risk prediction with algorithmic fairness", Claire Coffey, 2024.
+This repository contains the supplementary tables for the PhD thesis submitted to the University of Cambridge titled "Evaluating and enhancing cardiovascular disease risk prediction with algorithmic fairness", Claire Coffey, 2024.
